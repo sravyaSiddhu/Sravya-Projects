@@ -3,4 +3,5 @@ git is distributed version control system
 
 concept of SCM - software configuration Management/ Source Code Management
 
+GUI Tools like GitLAB ,GITHUB,BITBUCKET.... Etc
 Trunk Based Developement--- creating branch for master
